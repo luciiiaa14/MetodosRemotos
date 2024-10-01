@@ -5,3 +5,5 @@ PICOTEO
 -Patatas
 -Rabas
 -Croquetas
+-Chuches
+-Papas fritas
